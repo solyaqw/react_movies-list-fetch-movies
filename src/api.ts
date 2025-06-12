@@ -1,5 +1,5 @@
 import { MovieData } from './types/MovieData';
-import { ResponseError } from './types/ReponseError';
+import { ResponseError } from './types/ResponseError';
 
 const API_KEY = 'YOUR_OMDB_API_KEY';
 const BASE_URL = 'https://www.omdbapi.com/';
